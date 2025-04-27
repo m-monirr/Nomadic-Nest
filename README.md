@@ -5,9 +5,6 @@ Welcome to the backend of the *Nomadic-Nest* project—a travel recommendation s
 
 ## 🗂 Project Structure
 
-The backend directory is organized as follows:
-
-
 backend/
 ├── models/           # Defines Mongoose schemas and models
 ├── patterns/         # Contains design patterns or reusable logic
@@ -18,7 +15,6 @@ backend/
 ├── server.js         # Entry point to start the server
 ├── package.json      # Project metadata and dependencies
 └── package-lock.json # Exact versions of installed dependencies
-
 
 ### Detailed Breakdown
 
